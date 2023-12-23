@@ -7,3 +7,5 @@
 2. JavaScript
 
 ## Notes
+
+-Improved responsiveness
