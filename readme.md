@@ -10,3 +10,4 @@
 
 -Improved responsiveness
 -Worked on image and made self-sufficient
+-Improved responsiveness further on the buttons

@@ -6,3 +6,11 @@
     width: 50px;
   }
 }
+@media only screen and (max-width: 940px) {
+  #p1Button,
+  #p2Button,
+  #reset {
+    font-size: medium;
+    width: 70px;
+  }
+}
